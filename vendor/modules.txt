@@ -1,0 +1,23 @@
+# github.com/aead/argon2 v0.0.0-20180111183520-a87724528b07
+github.com/aead/argon2
+# github.com/aead/chacha20 v0.0.0-20180709150244-8b13a72661da
+github.com/aead/chacha20
+github.com/aead/chacha20/chacha
+# github.com/atotto/clipboard v0.1.2
+github.com/atotto/clipboard
+# github.com/google/shlex v0.0.0-20181106134648-c34317bd91bf
+github.com/google/shlex
+# github.com/mattn/go-runewidth v0.0.3
+github.com/mattn/go-runewidth
+# github.com/mitchellh/go-homedir v1.1.0
+github.com/mitchellh/go-homedir
+# github.com/peterh/liner v1.1.0
+github.com/peterh/liner
+# github.com/tobischo/gokeepasslib/v3 v3.0.0
+github.com/tobischo/gokeepasslib/v3
+github.com/tobischo/gokeepasslib/v3/crypto
+github.com/tobischo/gokeepasslib/v3/wrappers
+# golang.org/x/crypto v0.0.0-20190701094942-4def268fd1a4
+golang.org/x/crypto/blake2b
+# golang.org/x/sys v0.0.0-20190813064441-fde4db37ae7a
+golang.org/x/sys/cpu
