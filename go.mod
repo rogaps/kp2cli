@@ -8,5 +8,5 @@ require (
 	github.com/mitchellh/go-homedir v1.1.0
 	github.com/peterh/liner v1.1.0
 	github.com/tobischo/gokeepasslib/v3 v3.0.0
-	golang.org/x/sys v0.0.0-20190813064441-fde4db37ae7a // indirect
+	golang.org/x/sys v0.1.0 // indirect
 )
